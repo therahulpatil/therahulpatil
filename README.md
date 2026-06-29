@@ -34,7 +34,17 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,git,github,python,bash,java,mysql,debian,ubuntu,vscode,html,css"/>
+ <img src="https://skillicons.dev/icons?i=aws" />
+ <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,bash" />
+ <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,nmap,kali" />
+ <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,vscode" />
+  
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows_Server-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---

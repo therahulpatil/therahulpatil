@@ -24,6 +24,12 @@
 💻 Python | Bash | Java | MySQL
 ```
 
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+- Verify : https://cp.certmetrics.com/amazon/en/public/verify/credential/c49b3418666a41818f74795c50633cff
+
+---
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -32,47 +38,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=therahulpatil&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=therahulpatil&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulpatil&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=therahulpatil&theme=algolia&row=2&column=4"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📧 Mail Server | Postfix + Dovecot |
-| 🌐 DNS Server | BIND9 |
-| 🔐 PKI Lab | OpenSSL & Apache HTTPS |
-| 🛡️ Snort IDS | Intrusion Detection |
-| ☁️ AWS Infrastructure | EC2, IAM, VPC, S3 |
-| ⚙️ Jenkins CI/CD | Docker automation |
-
----
-
-## 📜 Certifications
-
-- AWS Certified Cloud Practitioner
-- Oracle Cloud Infrastructure Foundations
-- AWS Academy Cloud Foundations
-
----
-
 ## 📫 Connect
 
 - GitHub: https://github.com/therahulpatil
+- Facebook : https://x.com/the_rahul_patil
 
 ---
 

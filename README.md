@@ -76,12 +76,5 @@
 
 ---
 
-## 🐍 Snake Animation
-
-After enabling GitHub Actions, use the workflow included in `.github/workflows/snake.yml` and display the generated SVG.
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
 
 </div>

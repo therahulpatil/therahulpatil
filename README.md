@@ -1,244 +1,87 @@
+<div align="center">
 
-<!--
-**therahulpatil/therahulpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner.svg" width="100%" />
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Rahul Patil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<h1 align="center">Hi 👋, I'm Rahul Patil</h1>
-<h3 align="center">Cloud | DevOps | Linux | Network Security | AWS Certified</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=950&lines=AWS+Cloud+Engineer;Linux+Administrator;DevOps+Enthusiast;Cyber+Security+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **🎓 PG-DITISS Student at CDAC**
+![](https://komarev.com/ghpvc/?username=therahulpatil&style=for-the-badge&color=blue)
 
-- 📫 How to reach me **patilrahulprafulla@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/patilrahulprafulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patilrahulprafulla" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
--->
+## 🚀 About Me
 
+```text
+🎓 PG-DITISS @ CDAC
+☁️ AWS Certified Cloud Practitioner
+🐧 Linux Administrator
+🛡️ Cyber Security Enthusiast
+🌐 Networking
+⚙️ DevOps | Docker | Jenkins
+💻 Python | Bash | Java | MySQL
+```
 
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Rahul Patil</h1>
-
-<h3 align="center">
-Cloud | DevOps | Linux | Network Security | AWS Certified
-</h3>
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,git,github,python,bash,java,mysql,debian,ubuntu,vscode,html,css"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Analytics
 
-- 🎓 PG-DITISS Student at CDAC
-- 🎓 B.Tech in Computer Science & Engineering
-- ☁️ AWS Certified Cloud Practitioner
-- 🐧 Linux System Administrator
-- 🌐 Networking & Network Security Enthusiast
-- 🛡️ Learning Ethical Hacking & Digital Forensics
-- 🚀 Passionate about Cloud Infrastructure, Automation and DevOps
-- 💡 Always exploring new technologies
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=therahulpatil&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=therahulpatil&theme=tokyonight"/>
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulpatil&layout=compact&theme=tokyonight"/>
+</p>
 
-## 🚀 Technical Skills
-
-### ☁️ Cloud
-- AWS EC2
-- IAM
-- VPC
-- S3
-- Route53
-- CloudFront
-- EBS
-- EFS
-
-### 🐧 Linux
-- Debian
-- Ubuntu
-- RHEL
-- Shell Scripting
-- Bash
-- Cron Jobs
-- System Administration
-
-### ⚙️ DevOps
-- Docker
-- Docker Compose
-- Jenkins
-- Git
-- GitHub
-- CI/CD
-
-### 🌐 Networking
-- TCP/IP
-- DNS
-- DHCP
-- Routing
-- VPN
-- Firewall
-- Proxy Server
-- Wireshark
-- tcpdump
-
-### 🔐 Security
-- Snort IDS
-- IPTables
-- PKI
-- SSL/TLS
-- Email Security
-- Linux Hardening
-- Digital Forensics
-
-### 💻 Programming
-- Python
-- Java
-- C
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Bash
-
-### 🛢 Database
-- MySQL
-- Oracle SQL
-- PL/SQL
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=therahulpatil&theme=algolia&row=2&column=4"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 CI/CD Pipeline on AWS
-- Jenkins
-- Docker
-- Maven
-- Tomcat
-- AWS EC2
-
----
-
-### 🌐 DNS Server
-- BIND9
-- Forward & Reverse Lookup
-- Zone Configuration
-
----
-
-### 📧 Linux Mail Server
-- Postfix
-- Dovecot
-- SMTP
-- IMAP
-- Virtual Users
-
----
-
-### 🔐 PKI Lab
-- Root CA
-- Sub CA
-- SSL Certificates
-- Apache HTTPS
-
----
-
-### 🛡 Network Defense Lab
-- Snort IDS
-- IPTables
-- Packet Analysis
-- Wireshark
+| Project | Description |
+|---------|-------------|
+| 📧 Mail Server | Postfix + Dovecot |
+| 🌐 DNS Server | BIND9 |
+| 🔐 PKI Lab | OpenSSL & Apache HTTPS |
+| 🛡️ Snort IDS | Intrusion Detection |
+| ☁️ AWS Infrastructure | EC2, IAM, VPC, S3 |
+| ⚙️ Jenkins CI/CD | Docker automation |
 
 ---
 
 ## 📜 Certifications
 
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Oracle Cloud Infrastructure Foundations Associate
-- ✅ AWS Academy Cloud Foundations
-- ✅ AWS Academy Cloud Architecting
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure Foundations
+- AWS Academy Cloud Foundations
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
+- GitHub: https://github.com/therahulpatil
 
 ---
 
-## 📊 Most Used Languages
+## 🐍 Snake Animation
 
-<p align="center">
+After enabling GitHub Actions, use the workflow included in `.github/workflows/snake.yml` and display the generated SVG.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<div align="center">
 
-</p>
+### ⭐ Thanks for visiting!
 
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Kubernetes
-- Terraform
-- Ansible
-- Active Directory
-- SIEM
-- Cloud Security
-- Malware Analysis
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: https://yourwebsite.com
-
----
-
-## ⚡ Fun Fact
-
-> "Automate everything that can be automated."
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+</div>

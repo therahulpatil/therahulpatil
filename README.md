@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Rahul Patil
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=950&lines=AWS+Cloud+Engineer;Linux+Administrator;DevOps+Enthusiast;Cyber+Security+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=ff9900&center=true&vCenter=true&width=950&lines=AWS+Cloud+Engineer;Linux+Administrator;DevOps+Enthusiast;Cyber+Security+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=therahulpatil&style=for-the-badge&color=ff9900)
 

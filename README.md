@@ -26,10 +26,11 @@
 
 ## 📜 Certifications
 
-- AWS Certified Cloud Practitioner
-- Verify : https://cp.certmetrics.com/amazon/en/public/verify/credential/c49b3418666a41818f74795c50633cff
+- ✅ AWS Certified Cloud Practitioner
+- 🔗 **Verify Credential:** [View Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/c49b3418666a41818f74795c50633cff)
 
 ---
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -38,10 +39,10 @@
 
 ---
 
-## 📫 Connect
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/therahulpatil
-- Facebook : https://x.com/the_rahul_patil
+- 🐙 **GitHub:** https://github.com/therahulpatil
+- 𝕏 **X (Twitter):** https://x.com/the_rahul_patil
 
 ---
 

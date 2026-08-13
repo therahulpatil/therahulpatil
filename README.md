@@ -23,21 +23,36 @@
 
 ---
 
-## ⚡ Terminal Summary
+## ⚡ System Terminal Card
 
 ```text
-  ____ahul  ____atil 
- |  _ \ ___ | |__  _   _| |
- | |_) / _ \| '_ \| | | | |
- |  _ < (_) | | | | |_| |_|
- |_| \_\___/|_| |_|\__,_(_)
---------------------------------------------------
- > Current Focus  : Pursuing PG-DITISS @ CDAC
- > Domain         : AWS Cloud Infrastructure, DevOps & Security
- > Certifications : AWS Certified Cloud Practitioner
- > Core Strengths : Linux Administration, Networking, System Security
- > Environments   : Linux (Debian/Ubuntu/Kali), Windows Server, AWS
---------------------------------------------------
+┌──(rahul⚡cloud-sec-node)-[~/profile]
+└─$ ./fetch_bio.sh --verbose
+
+  ██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗     ██████╗  █████╗ ████████╗██╗██╗
+  ██╔══██╗██╔══██╗██║  ██║██║   ██║██║     ██╔══██╗██╔══██╗╚══██╔══╝██║██║
+  ██████╔╝███████║███████║██║   ██║██║     ██████╔╝███████║   ██║   ██║██║
+  ██╔══██╗██╔══██║██╔══██║██║   ██║██║     ██╔═══╝ ██╔══██║   ██║   ██║██║
+  ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗██║     ██║  ██║   ██║   ██║███████╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝
+
+ ══════════════════════════════════════════════════════════════════════════════
+  👤 USER           : Rahul Patil (@therahulpatil)
+  🎓 EDUCATION      : PG-DITISS @ CDAC (IT Infra, Systems & Security)
+  📜 CERTIFICATION  : AWS Certified Cloud Practitioner [Verified]
+  ☁️ CLOUD PLATFORM : Amazon Web Services (AWS)
+  🐧 SYSTEM OS      : Linux (Debian, Ubuntu, Kali) | Windows Server
+  ⚙️ DEVOPS TOOLING : Docker | Jenkins | Git & GitHub | Bash Scripting
+  🛡️ SECURITY STACK : Wireshark | Nmap | Snort IDS | PKI & Cryptography
+ ══════════════════════════════════════════════════════════════════════════════
+  ⚡ PROFICIENCY SPECTRUM:
+     [☁️ AWS Cloud]       ██████████████████░░ 90%
+     [🐧 Linux Admin]     ████████████████████ 100%
+     [⚙️ DevOps CI/CD]    █████████████████░░░ 85%
+     [🛡️ Cyber Security]  █████████████████░░░ 85%
+     [🐍 Scripting/Code]  ██████████████████░░ 90%
+ ══════════════════════════════════════════════════════════════════════════════
+  🚀 SYSTEM STATUS   : 🟢 ACTIVE | Building & Securing Cloud Ecosystems
 ```
 
 ---

@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AWS+Certified+Solutions+Architect+-+Associate;DevOps+Engineer+Associate;Cloud+Architecture+%26+Infrastructure+as+Code;CI%2FCD+Pipelines+%26+Containerization;Linux+System+Engineering+%26+DevSecOps" alt="Typing SVG" />
 </a>
 
@@ -128,6 +128,8 @@
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="EKS" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS" />
   <img src="https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="VPC" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
   <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS" />

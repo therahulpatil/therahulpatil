@@ -15,6 +15,11 @@
       <stop offset="100%" stop-color="#c084fc" />
     </linearGradient>
 
+    <linearGradient id="awsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9900" />
+      <stop offset="100%" stop-color="#ffb84d" />
+    </linearGradient>
+
     <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#fbbf24" />
       <stop offset="100%" stop-color="#f59e0b" />
@@ -62,11 +67,11 @@
     <circle cx="950" cy="230" r="4" />
   </g>
 
-  <!-- Top Accent Pill Badge -->
+  <!-- Top Accent Pill Badge: AWS Certified Solutions Architect - Associate -->
   <g transform="translate(600, 52)">
-    <rect x="-150" y="-18" width="300" height="36" rx="18" fill="#0f172a" stroke="#0284c7" stroke-width="1.5" filter="url(#subtle-glow)"/>
-    <text x="0" y="5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="2">
-      ☁️ AWS CERTIFIED CLOUD PRACTITIONER
+    <rect x="-240" y="-18" width="480" height="36" rx="18" fill="#0f172a" stroke="#ff9900" stroke-width="1.5" filter="url(#subtle-glow)"/>
+    <text x="0" y="5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#ffb84d" text-anchor="middle" letter-spacing="1.5">
+      ☁️ AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE
     </text>
   </g>
 
@@ -77,33 +82,33 @@
 
   <!-- Role Subtitle -->
   <text x="600" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f8fafc" text-anchor="middle" letter-spacing="2">
-    AWS CLOUD  •  DEVOPS  •  LINUX ADMIN  •  CYBER SECURITY
+    DEVOPS ENGINEER ASSOCIATE  •  SOLUTIONS ARCHITECT
   </text>
 
   <!-- Decorative Divider Line -->
-  <line x1="450" y1="225" x2="750" y2="225" stroke="url(#textGrad)" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="420" y1="225" x2="780" y2="225" stroke="url(#textGrad)" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
 
-  <!-- Sub-Tagline / Education -->
+  <!-- Sub-Tagline -->
   <text x="600" y="260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#94a3b8" text-anchor="middle" letter-spacing="1">
-    PG-DITISS @ CDAC | Building &amp; Securing Resilient Infrastructure
+    Designing Resilient Architectures  •  Automating CI/CD Pipelines  •  Securing Cloud Systems
   </text>
 
   <!-- Bottom Pill Badges -->
   <g transform="translate(600, 305)">
-    <!-- Badge 1: Cloud -->
-    <rect x="-240" y="-14" width="100" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
-    <text x="-190" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#38bdf8" text-anchor="middle">☁️ AWS</text>
+    <!-- Badge 1: AWS Solutions -->
+    <rect x="-312.5" y="-14" width="160" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="-232.5" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#38bdf8" text-anchor="middle">☁️ AWS Solutions</text>
 
-    <!-- Badge 2: Linux -->
-    <rect x="-125" y="-14" width="100" height="28" rx="14" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
-    <text x="-75" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#fbbf24" text-anchor="middle">🐧 Linux</text>
+    <!-- Badge 2: DevOps & CI/CD -->
+    <rect x="-137.5" y="-14" width="150" height="28" rx="14" fill="#1e293b" stroke="#22c55e" stroke-width="1"/>
+    <text x="-62.5" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#4ade80" text-anchor="middle">⚙️ DevOps &amp; CI/CD</text>
 
-    <!-- Badge 3: DevOps -->
-    <rect x="-10" y="-14" width="100" height="28" rx="14" fill="#1e293b" stroke="#22c55e" stroke-width="1"/>
-    <text x="40" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#4ade80" text-anchor="middle">⚙️ DevOps</text>
+    <!-- Badge 3: Linux Systems -->
+    <rect x="27.5" y="-14" width="140" height="28" rx="14" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+    <text x="97.5" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#fbbf24" text-anchor="middle">🐧 Linux Systems</text>
 
-    <!-- Badge 4: Cyber Security -->
-    <rect x="105" y="-14" width="135" height="28" rx="14" fill="#1e293b" stroke="#a855f7" stroke-width="1"/>
-    <text x="172.5" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#c084fc" text-anchor="middle">🛡️ Security</text>
+    <!-- Badge 4: DevSecOps -->
+    <rect x="182.5" y="-14" width="130" height="28" rx="14" fill="#1e293b" stroke="#a855f7" stroke-width="1"/>
+    <text x="247.5" y="4" font-family="sans-serif" font-size="12" font-weight="600" fill="#c084fc" text-anchor="middle">🛡️ DevSecOps</text>
   </g>
 </svg>

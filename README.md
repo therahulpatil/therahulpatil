@@ -106,84 +106,11 @@
 
 ---
 
-## 🔄 Cloud & DevOps Lifecycle
-
-```text
- ┌───────────────┐     ┌────────────────┐     ┌───────────────┐     ┌────────────────┐
- │ Code & Commit │ ──► │  CI Pipeline   │ ──► │ Containerize  │ ──► │ Deploy to AWS  │
- │ Git / GitHub  │     │ Jenkins / GHA  │     │ Docker / ECR  │     │ Terraform / K8s│
- └───────────────┘     └────────────────┘     └───────────────┘     └────────────────┘
-                                                                             │
-                                   ┌───────────────────────┐                 ▼
-                                   │ Observability & Guard │ ◄───────────────┘
-                                   │ CloudWatch/Prometheus │
-                                   └───────────────────────┘
-```
-
----
-
 ## 🧰 Tech Stack & Tools
 
-### ☁️ Cloud & Infrastructure (AWS)
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
-  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="EKS" />
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS" />
-  <img src="https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="VPC" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS" />
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="IAM" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" />
-  <img src="https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Route53" />
-  <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
-</p>
-
-### ⚙️ DevOps, CI/CD & IaC
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 🐧 Operating Systems & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-</p>
-
-### 🛡️ DevSecOps, Networking & Observability
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Snort_IDS-CC0000?style=for-the-badge" alt="Snort" />
-  <img src="https://img.shields.io/badge/PKI_%26_Cryptography-00599C?style=for-the-badge" alt="PKI" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
-
-### 💻 Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-### 🎨 Visual Skill Grid
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,linux,ubuntu,debian,bash,python,git,github,postgres,mysql&perline=8" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,git,github,linux,ubuntu,debian,redhat,bash,py,windows,prometheus,grafana,postgres,mysql,dynamodb,redis&perline=11" alt="Tech Stack Icons" />
   </a>
 </p>
 

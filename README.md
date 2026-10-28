@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/><br/>
       <b>AWS Certified Solutions Architect – Associate</b><br/>
       <i>Amazon Web Services (SAA-C03)</i><br/><br/>
-      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c49b3418666a41818f74795c50633cff" target="_blank">
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/5b5a1c7f6a824de5a661e9149a0c18fd" target="_blank">
         <img src="https://img.shields.io/badge/Verify_Credential-00C853?style=flat-square&logo=checkmark&logoColor=white" alt="Verify SAA" />
       </a>
     </td>
